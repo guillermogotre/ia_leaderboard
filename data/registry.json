@@ -2,12 +2,12 @@
   "Timur Sorokin_D2": {
     "user": "Timur Sorokin",
     "group": "D2",
-    "final_score": 6.560897614379085,
-    "seg_fault": true,
-    "datetime": 1679356403836,
+    "final_score": 8.290770849673203,
+    "seg_fault": false,
+    "datetime": 1679356574691,
     "mapa_30": 10,
     "mapa_50": 10,
-    "mapa_75": -0.3173071568627451
+    "mapa_75": 4.8723125490196075
   },
   "Ines Jimenez_D1": {
     "user": "Ines Jimenez",
