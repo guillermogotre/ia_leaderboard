@@ -32,12 +32,12 @@
   "Juan Francisco Montilla_A2": {
     "user": "Juan Francisco Montilla",
     "group": "A2",
-    "final_score": 6.7803810411764704,
+    "final_score": 6.058820460784314,
     "seg_fault": true,
-    "datetime": 1679337718752,
-    "mapa_30": 8.272680101960784,
-    "mapa_50": 8.68392156862745,
-    "mapa_75": 3.384541452941176
+    "datetime": 1679339999132,
+    "mapa_30": 9.391111294117648,
+    "mapa_50": 7.251372549019608,
+    "mapa_75": 1.533977539215686
   },
   "Tutorial_A1": {
     "user": "Tutorial",
