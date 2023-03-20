@@ -22,11 +22,11 @@
   "Alejandro Machuca_A2": {
     "user": "Alejandro Machuca",
     "group": "A2",
-    "final_score": 7.411683542483661,
+    "final_score": 6.377609607843139,
     "seg_fault": true,
-    "datetime": 1679325620657,
-    "mapa_30": 8.724314352941176,
-    "mapa_50": 8.06486274509804,
-    "mapa_75": 5.445873529411765
+    "datetime": 1679325855403,
+    "mapa_30": 4.5,
+    "mapa_50": 8.62329411764706,
+    "mapa_75": 6.009534705882354
   }
 }
