@@ -67,7 +67,15 @@ data = $.getJSON('./data/registry.json', function(data) {
         let date = new Date(data[key]['datetime']);//.toLocaleString();//.slice(0, 19).replace('T', ' ');
         let year = date.getFullYear();
         let month = date.getMonth() + 1;
+        // Add leading zero
+        if (month < 10) {
+            month = '0' + month;
+        }
         let day = date.getDate();
+        // Add leading zero
+        if (day < 10) {
+            day = '0' + day;
+        }
         let hour = date.getHours();
         let minute = date.getMinutes();
         let second = date.getSeconds();
