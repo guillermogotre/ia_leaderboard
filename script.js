@@ -63,8 +63,16 @@ data = $.getJSON('./data/registry.json', function(data) {
         td.appendChild(document.createTextNode(data[key]['final_score']));
         tr.appendChild(td);
         td = document.createElement('td');
-        // Convert POSIX miliseconds to YYYY-MM-DD HH:mm:ss
-        date = new Date(data[key]['datetime']).toISOString().slice(0, 19).replace('T', ' ');
+        // Convert POSIX miliseconds to YYYY-MM-DD HH:mm:ss 
+        let date = new Date(data[key]['datetime']);//.toLocaleString();//.slice(0, 19).replace('T', ' ');
+        let year = date.getFullYear();
+        let month = date.getMonth() + 1;
+        let day = date.getDate();
+        let hour = date.getHours();
+        let minute = date.getMinutes();
+        let second = date.getSeconds();
+        date = year + '-' + month + '-' + day + ' ' + hour + ':' + minute + ':' + second;
+
         td.appendChild(document.createTextNode(date));
         tr.appendChild(td);
         tbody.appendChild(tr);
