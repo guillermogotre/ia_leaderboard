@@ -82,11 +82,11 @@
   "Profes DG_Z1": {
     "user": "Profes DG",
     "group": "Z1",
-    "final_score": 0,
-    "seg_fault": false,
-    "datetime": 1679335088066,
-    "mapa_30": 0,
-    "mapa_50": 0,
-    "mapa_75": 0
+    "final_score": 2.661044614379085,
+    "seg_fault": true,
+    "datetime": 1679336004171,
+    "mapa_30": 3.870066196078431,
+    "mapa_50": 4.562313725490196,
+    "mapa_75": -0.44924607843137265
   }
 }
