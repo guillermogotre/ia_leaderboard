@@ -102,12 +102,12 @@
   "Ignacio fortes_B1": {
     "user": "Ignacio fortes",
     "group": "B1",
-    "final_score": 2.225124111111111,
+    "final_score": 1.7314266209150326,
     "seg_fault": true,
-    "datetime": 1679392804336,
-    "mapa_30": 3.2790413333333333,
-    "mapa_50": 3.8818823529411763,
-    "mapa_75": -0.48555135294117663
+    "datetime": 1679392896591,
+    "mapa_30": 3.248192705882353,
+    "mapa_50": 2.554705882352941,
+    "mapa_75": -0.6086187254901961
   },
   "Ramon Liria_A1D": {
     "user": "Ramon Liria",
