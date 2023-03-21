@@ -152,12 +152,12 @@
   "RobinJr_C1": {
     "user": "RobinJr",
     "group": "C1",
-    "final_score": 3.1401349019607836,
+    "final_score": 3.152177209150326,
     "seg_fault": true,
-    "datetime": 1679393316956,
-    "mapa_30": 4.149193333333333,
-    "mapa_50": 5.594078431372548,
-    "mapa_75": -0.32286705882352956
+    "datetime": 1679417624348,
+    "mapa_30": 4.109019764705882,
+    "mapa_50": 5.6,
+    "mapa_75": -0.252488137254902
   },
   "JESUS PEREIRA_C1": {
     "user": "JESUS PEREIRA",
