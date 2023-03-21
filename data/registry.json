@@ -148,5 +148,45 @@
     "mapa_30": -0.5836600784313726,
     "mapa_50": 2.656980392156863,
     "mapa_75": -0.7100740568627452
+  },
+  "RobinJr_C1": {
+    "user": "RobinJr",
+    "group": "C1",
+    "final_score": 2.4390093267973856,
+    "seg_fault": true,
+    "datetime": 1679388390377,
+    "mapa_30": 2.7314159215686273,
+    "mapa_50": 4.904,
+    "mapa_75": -0.3183879411764707
+  },
+  "JESUS PEREIRA_C1": {
+    "user": "JESUS PEREIRA",
+    "group": "C1",
+    "final_score": 0.1193145620915032,
+    "seg_fault": true,
+    "datetime": 1679388390923,
+    "mapa_30": 0.3168630588235294,
+    "mapa_50": 0.8745882352941176,
+    "mapa_75": -0.8335076078431374
+  },
+  "Hugo Tejada_C1": {
+    "user": "Hugo Tejada",
+    "group": "C1",
+    "final_score": -1,
+    "seg_fault": true,
+    "datetime": 1679388391044,
+    "mapa_30": -1,
+    "mapa_50": -1,
+    "mapa_75": -1
+  },
+  "Antonio Hernandez_C1": {
+    "user": "Antonio Hernandez",
+    "group": "C1",
+    "final_score": -1,
+    "seg_fault": true,
+    "datetime": 1679388392056,
+    "mapa_30": -1,
+    "mapa_50": -1,
+    "mapa_75": -1
   }
 }
