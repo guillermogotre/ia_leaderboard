@@ -238,5 +238,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "Willy_C1": {
+    "user": "Willy",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388695329,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
