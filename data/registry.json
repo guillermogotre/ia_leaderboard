@@ -188,5 +188,15 @@
     "mapa_30": -1,
     "mapa_50": -1,
     "mapa_75": -1
+  },
+  "ElWilly_C1": {
+    "user": "ElWilly",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388415804,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
