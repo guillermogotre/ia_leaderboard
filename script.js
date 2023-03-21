@@ -96,12 +96,12 @@ data = $.getJSON('./data/registry.json', function(data) {
         columns: [
             {select: 0, type: 'string'},
             {select: 1, type: 'string'},
-            {select: 2, type: 'number', render: number_format},
-            {select: 3, type: 'number', render: number_format},
-            {select: 4, type: 'number', render: number_format},
+            {select: 2, type: 'num', render: number_format},
+            {select: 3, type: 'num', render: number_format},
+            {select: 4, type: 'num', render: number_format},
             {select: 5, type: 'string'},
             // named: total_score
-            {select: 6, type: 'number', render: number_format},
+            {select: 6, type: 'num', render: number_format},
             {select: 7, type: 'datetime'},
             ],
             searchable: true,
