@@ -208,5 +208,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "Cecilia Caraballo_C1": {
+    "user": "Cecilia Caraballo",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388446401,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
