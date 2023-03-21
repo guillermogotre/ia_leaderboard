@@ -142,11 +142,11 @@
   "Juan Acosta_C1": {
     "user": "Juan Acosta",
     "group": "C1",
-    "final_score": 3.1492461960784306,
+    "final_score": 2.239927477124183,
     "seg_fault": true,
-    "datetime": 1679421393898,
-    "mapa_30": 4.957385647058823,
-    "mapa_50": 5.49035294117647,
+    "datetime": 1679421457599,
+    "mapa_30": 2.1197824313725495,
+    "mapa_50": 5.6,
     "mapa_75": -1
   },
   "RobinJr_C1": {
