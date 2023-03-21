@@ -52,12 +52,12 @@
   "Juanma Segura_D2": {
     "user": "Juanma Segura",
     "group": "D2",
-    "final_score": 3.315668849673202,
+    "final_score": 5.401528032679738,
     "seg_fault": true,
-    "datetime": 1679332962465,
-    "mapa_30": 4.943965176470588,
-    "mapa_50": 5.339294117647058,
-    "mapa_75": -0.3362527450980393
+    "datetime": 1679441286394,
+    "mapa_30": 8.841394588235293,
+    "mapa_50": 7.564,
+    "mapa_75": -0.2008104901960785
   },
   "Javier Sabio_A2": {
     "user": "Javier Sabio",
