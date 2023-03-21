@@ -268,5 +268,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "Eduardo Lupion_C1": {
+    "user": "Eduardo Lupion",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679392118715,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
