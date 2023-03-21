@@ -198,5 +198,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "Cristina Vilchez_C1": {
+    "user": "Cristina Vilchez",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388435874,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
