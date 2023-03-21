@@ -182,12 +182,12 @@
   "Antonio Hernandez_C1": {
     "user": "Antonio Hernandez",
     "group": "C1",
-    "final_score": -0.9213333692810457,
+    "final_score": 0.36643690196078427,
     "seg_fault": true,
-    "datetime": 1679392121738,
-    "mapa_30": -1,
-    "mapa_50": -1,
-    "mapa_75": -0.7640001078431373
+    "datetime": 1679395461544,
+    "mapa_30": 0.736861882352941,
+    "mapa_50": 1.0346666666666668,
+    "mapa_75": -0.672217843137255
   },
   "ElWilly_C1": {
     "user": "ElWilly",
