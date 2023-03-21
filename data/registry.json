@@ -232,12 +232,12 @@
   "Carmenchu_C1": {
     "user": "Carmenchu",
     "group": "C1",
-    "final_score": 0,
-    "seg_fault": false,
-    "datetime": 1679394284434,
-    "mapa_30": 0,
-    "mapa_50": 0,
-    "mapa_75": 0
+    "final_score": -0.09493090522875824,
+    "seg_fault": true,
+    "datetime": 1679398299210,
+    "mapa_30": -0.3043134117647059,
+    "mapa_50": 0.8629803921568627,
+    "mapa_75": -0.8434596960784315
   },
   "Willy_C1": {
     "user": "Willy",
