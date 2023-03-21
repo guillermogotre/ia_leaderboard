@@ -218,5 +218,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "Antonio Fernandez_C1": {
+    "user": "Antonio Fernandez",
+    "group": "C1",
+    "final_score": 1.4001828954248368,
+    "seg_fault": true,
+    "datetime": 1679388493573,
+    "mapa_30": 0.38588211764705893,
+    "mapa_50": 4.445019607843138,
+    "mapa_75": -0.6303530392156864
   }
 }
