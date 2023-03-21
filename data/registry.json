@@ -228,5 +228,15 @@
     "mapa_30": 0.38588211764705893,
     "mapa_50": 4.445019607843138,
     "mapa_75": -0.6303530392156864
+  },
+  "Carmenchu_C1": {
+    "user": "Carmenchu",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388515621,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
