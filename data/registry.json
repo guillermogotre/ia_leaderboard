@@ -258,5 +258,15 @@
     "mapa_30": -1,
     "mapa_50": -1,
     "mapa_75": -1
+  },
+  "Ignacio Escalona Blanca_C1": {
+    "user": "Ignacio Escalona Blanca",
+    "group": "C1",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679388876853,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
