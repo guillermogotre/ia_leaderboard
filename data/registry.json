@@ -452,12 +452,12 @@
   "ScG_A2": {
     "user": "ScG",
     "group": "A2",
-    "final_score": 3.4025446666666666,
-    "seg_fault": true,
-    "datetime": 1679486456395,
-    "mapa_30": 2.895249882352941,
-    "mapa_50": 5.473411764705882,
-    "mapa_75": 1.8389723529411763
+    "final_score": 6.257551150326797,
+    "seg_fault": false,
+    "datetime": 1679488187134,
+    "mapa_30": 5.844792470588235,
+    "mapa_50": 9.463686274509804,
+    "mapa_75": 3.4641747058823524
   },
   "jmcasanovam_A2": {
     "user": "jmcasanovam",
