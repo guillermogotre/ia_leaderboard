@@ -322,12 +322,12 @@
   "Juan Barea_A2": {
     "user": "Juan Barea",
     "group": "A2",
-    "final_score": 8.321010980392156,
+    "final_score": 8.933054509803922,
     "seg_fault": false,
-    "datetime": 1679477891662,
+    "datetime": 1679477936629,
     "mapa_30": 10,
-    "mapa_50": 8.955294117647059,
-    "mapa_75": 6.007738823529412
+    "mapa_50": 10,
+    "mapa_75": 6.799163529411765
   },
   "Marcos Ruiz_B3": {
     "user": "Marcos Ruiz",
