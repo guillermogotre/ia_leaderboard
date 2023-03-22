@@ -392,12 +392,12 @@
   "Fernando Cuesta_A2": {
     "user": "Fernando Cuesta",
     "group": "A2",
-    "final_score": 2.9679987189542487,
+    "final_score": 2.2762470392156864,
     "seg_fault": true,
-    "datetime": 1679476465087,
-    "mapa_30": 2.8136816470588237,
-    "mapa_50": 4.3707843137254905,
-    "mapa_75": 1.7195301960784315
+    "datetime": 1679479209130,
+    "mapa_30": 1.64126337254902,
+    "mapa_50": 3.90878431372549,
+    "mapa_75": 1.2786934313725493
   },
   "AlvaroRL_A1": {
     "user": "AlvaroRL",
