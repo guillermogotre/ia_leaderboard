@@ -342,12 +342,12 @@
   "casalini_B2": {
     "user": "casalini",
     "group": "B2",
-    "final_score": 2.0758182745098037,
+    "final_score": 1.794241117647059,
     "seg_fault": true,
-    "datetime": 1679482491381,
-    "mapa_30": 2.1822654117647056,
-    "mapa_50": 4.418862745098039,
-    "mapa_75": -0.37367333333333347
+    "datetime": 1679482539941,
+    "mapa_30": 2.171721098039215,
+    "mapa_50": 3.612509803921569,
+    "mapa_75": -0.4015075490196079
   },
   "Alejandro Iborra_D1": {
     "user": "Alejandro Iborra",
