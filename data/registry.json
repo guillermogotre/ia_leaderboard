@@ -472,12 +472,12 @@
   "Julia_A2": {
     "user": "Julia",
     "group": "A2",
-    "final_score": -0.29249383333333334,
+    "final_score": -0.19697892810457515,
     "seg_fault": true,
-    "datetime": 1679475493929,
-    "mapa_30": 0,
-    "mapa_50": 0,
-    "mapa_75": -0.8774815
+    "datetime": 1679510582253,
+    "mapa_30": 0.31572988235294114,
+    "mapa_50": 0.09333333333333334,
+    "mapa_75": -1
   },
   "Juan Antonio Miras_A2": {
     "user": "Juan Antonio Miras",
