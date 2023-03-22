@@ -352,12 +352,12 @@
   "Alejandro Iborra_D1": {
     "user": "Alejandro Iborra",
     "group": "D1",
-    "final_score": 5.476416807189542,
-    "seg_fault": true,
-    "datetime": 1679509089470,
+    "final_score": 7.243658395424837,
+    "seg_fault": false,
+    "datetime": 1679509301538,
     "mapa_30": 10,
     "mapa_50": 6.872745098039215,
-    "mapa_75": -0.4434946764705884
+    "mapa_75": 4.858230088235294
   },
   "Rim_D1": {
     "user": "Rim",
