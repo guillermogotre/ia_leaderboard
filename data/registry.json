@@ -252,12 +252,12 @@
   "Kaito_C1": {
     "user": "Kaito",
     "group": "C1",
-    "final_score": 3.071960875816994,
+    "final_score": 2.65962122875817,
     "seg_fault": true,
-    "datetime": 1679483972405,
-    "mapa_30": 5.037298823529412,
-    "mapa_50": 4.8678823529411765,
-    "mapa_75": -0.6892985490196079
+    "datetime": 1679485189181,
+    "mapa_30": 4.933682823529413,
+    "mapa_50": 3.7347058823529413,
+    "mapa_75": -0.6895250196078432
   },
   "Ignacio Escalona Blanca_C1": {
     "user": "Ignacio Escalona Blanca",
