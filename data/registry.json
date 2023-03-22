@@ -312,12 +312,12 @@
   "erPiedra_A1": {
     "user": "erPiedra",
     "group": "A1",
-    "final_score": 5.0520703,
-    "seg_fault": false,
-    "datetime": 1679431104247,
-    "mapa_30": 5.370284282352941,
-    "mapa_50": 5.673647058823529,
-    "mapa_75": 4.112279558823529
+    "final_score": 3.2520495156862745,
+    "seg_fault": true,
+    "datetime": 1679490349205,
+    "mapa_30": 1.0928544784313723,
+    "mapa_50": 4.645725490196079,
+    "mapa_75": 4.017568578431373
   },
   "Juan Barea_A2": {
     "user": "Juan Barea",
