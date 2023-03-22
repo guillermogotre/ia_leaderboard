@@ -438,5 +438,15 @@
     "mapa_30": 0.4653158431372547,
     "mapa_50": 2.7308627450980394,
     "mapa_75": -0.6214116666666667
+  },
+  "AlvaroRL_A2": {
+    "user": "AlvaroRL",
+    "group": "A2",
+    "final_score": 0,
+    "seg_fault": false,
+    "datetime": 1679474697017,
+    "mapa_30": 0,
+    "mapa_50": 0,
+    "mapa_75": 0
   }
 }
