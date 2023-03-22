@@ -478,5 +478,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": -0.8774815
+  },
+  "Juan Antonio Miras_A2": {
+    "user": "Juan Antonio Miras",
+    "group": "A2",
+    "final_score": -1,
+    "seg_fault": true,
+    "datetime": 1679477830157,
+    "mapa_30": -1,
+    "mapa_50": -1,
+    "mapa_75": -1
   }
 }
