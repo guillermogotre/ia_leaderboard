@@ -532,12 +532,12 @@
   "Hossam El Amraoui_A3": {
     "user": "Hossam El Amraoui",
     "group": "A3",
-    "final_score": 0.1193145620915032,
+    "final_score": -0.39131600784313736,
     "seg_fault": true,
-    "datetime": 1679502927232,
-    "mapa_30": 0.3168630588235294,
-    "mapa_50": 0.8745882352941176,
-    "mapa_75": -0.8335076078431374
+    "datetime": 1679512011474,
+    "mapa_30": -0.5759913568627453,
+    "mapa_50": -0.056666666666666754,
+    "mapa_75": -0.54129
   },
   "javier2003mr_A1": {
     "user": "javier2003mr",
