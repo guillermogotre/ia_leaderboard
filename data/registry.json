@@ -388,5 +388,15 @@
     "mapa_30": 1.6072325490196078,
     "mapa_50": 1.4648235294117646,
     "mapa_75": 1.330979362745098
+  },
+  "Fernando Cuesta_A2": {
+    "user": "Fernando Cuesta",
+    "group": "A2",
+    "final_score": -1,
+    "seg_fault": true,
+    "datetime": 1679474560240,
+    "mapa_30": -1,
+    "mapa_50": -1,
+    "mapa_75": -1
   }
 }
