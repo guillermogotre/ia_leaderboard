@@ -222,12 +222,12 @@
   "Antonio Fernandez_C1": {
     "user": "Antonio Fernandez",
     "group": "C1",
-    "final_score": 1.3747366928104574,
+    "final_score": 1.3668645359477125,
     "seg_fault": true,
-    "datetime": 1679477169216,
-    "mapa_30": 2.095643607843137,
+    "datetime": 1679477532261,
+    "mapa_30": 2.0928549803921572,
     "mapa_50": 2.3000000000000003,
-    "mapa_75": -0.27143352941176485
+    "mapa_75": -0.2922613725490197
   },
   "Carmenchu_C1": {
     "user": "Carmenchu",
