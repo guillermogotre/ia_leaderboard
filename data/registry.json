@@ -172,12 +172,12 @@
   "Hugo Tejada_C1": {
     "user": "Hugo Tejada",
     "group": "C1",
-    "final_score": -1,
+    "final_score": 0.8573290065359475,
     "seg_fault": true,
-    "datetime": 1679388391044,
-    "mapa_30": -1,
-    "mapa_50": -1,
-    "mapa_75": -1
+    "datetime": 1679513170268,
+    "mapa_30": 1.3769499607843132,
+    "mapa_50": 1.7518039215686279,
+    "mapa_75": -0.5567668627450981
   },
   "Antonio Hernandez_C1": {
     "user": "Antonio Hernandez",
