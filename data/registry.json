@@ -408,5 +408,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "luisarrabal_A2": {
+    "user": "luisarrabal",
+    "group": "A2",
+    "final_score": 0.46058688130718956,
+    "seg_fault": true,
+    "datetime": 1679474566411,
+    "mapa_30": 0.16252756549019598,
+    "mapa_50": 1.3056470588235296,
+    "mapa_75": -0.08641398039215686
   }
 }
