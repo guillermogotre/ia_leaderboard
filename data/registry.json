@@ -62,12 +62,12 @@
   "Javier Sabio_A2": {
     "user": "Javier Sabio",
     "group": "A2",
-    "final_score": 8.93333343137255,
+    "final_score": 8.480587098039216,
     "seg_fault": false,
-    "datetime": 1679474669818,
-    "mapa_30": 10,
-    "mapa_50": 10,
-    "mapa_75": 6.8000002941176465
+    "datetime": 1679474742677,
+    "mapa_30": 9.934640705882353,
+    "mapa_50": 9.005490196078432,
+    "mapa_75": 6.501630392156862
   },
   "Guillermo Gomez_Z1": {
     "user": "Guillermo Gomez",
@@ -394,7 +394,7 @@
     "group": "A2",
     "final_score": -1,
     "seg_fault": true,
-    "datetime": 1679474560240,
+    "datetime": 1679474743915,
     "mapa_30": -1,
     "mapa_50": -1,
     "mapa_75": -1
@@ -448,5 +448,15 @@
     "mapa_30": 0,
     "mapa_50": 0,
     "mapa_75": 0
+  },
+  "ScG_A2": {
+    "user": "ScG",
+    "group": "A2",
+    "final_score": -0.08525780718954248,
+    "seg_fault": true,
+    "datetime": 1679474743750,
+    "mapa_30": -0.23058823529411768,
+    "mapa_50": 0.8182745098039218,
+    "mapa_75": -0.8434596960784315
   }
 }
