@@ -22,12 +22,12 @@
   "Alejandro Machuca_A2": {
     "user": "Alejandro Machuca",
     "group": "A2",
-    "final_score": 8.108340562091502,
+    "final_score": 9.17340911764706,
     "seg_fault": false,
-    "datetime": 1679504580076,
-    "mapa_30": 9.799216,
-    "mapa_50": 9.934745098039215,
-    "mapa_75": 4.591060588235294
+    "datetime": 1679506523390,
+    "mapa_30": 10,
+    "mapa_50": 10,
+    "mapa_75": 7.520227352941176
   },
   "Juan Francisco Montilla_A2": {
     "user": "Juan Francisco Montilla",
