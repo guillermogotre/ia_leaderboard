@@ -62,12 +62,12 @@
   "Javier Sabio_A2": {
     "user": "Javier Sabio",
     "group": "A2",
-    "final_score": 9.404909248366014,
+    "final_score": 8.529899607843138,
     "seg_fault": false,
-    "datetime": 1679474822500,
+    "datetime": 1679474906772,
     "mapa_30": 10,
-    "mapa_50": 10,
-    "mapa_75": 8.214727745098038
+    "mapa_50": 8.952784313725491,
+    "mapa_75": 6.636914509803921
   },
   "Guillermo Gomez_Z1": {
     "user": "Guillermo Gomez",
