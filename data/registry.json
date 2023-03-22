@@ -372,12 +372,12 @@
   "ElKpo_A2": {
     "user": "ElKpo",
     "group": "A2",
-    "final_score": 6.11296351633987,
-    "seg_fault": true,
-    "datetime": 1679480699639,
-    "mapa_30": 7.893203294117647,
+    "final_score": 6.652408726797386,
+    "seg_fault": false,
+    "datetime": 1679493975951,
+    "mapa_30": 8.873813435294117,
     "mapa_50": 6.519490196078431,
-    "mapa_75": 3.9261970588235293
+    "mapa_75": 4.563922549019608
   },
   "Angel Sanchez_B1": {
     "user": "Angel Sanchez",
