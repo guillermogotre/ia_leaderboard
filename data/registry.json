@@ -332,12 +332,12 @@
   "Marcos Ruiz_B3": {
     "user": "Marcos Ruiz",
     "group": "B3",
-    "final_score": 8.624766843137254,
+    "final_score": 8.754550937908498,
     "seg_fault": false,
-    "datetime": 1679569141277,
-    "mapa_30": 9.405402745098039,
-    "mapa_50": 9.241411764705882,
-    "mapa_75": 7.227486019607843
+    "datetime": 1679571273544,
+    "mapa_30": 9.392854509803922,
+    "mapa_50": 9.575529411764705,
+    "mapa_75": 7.295268892156863
   },
   "casalini_B2": {
     "user": "casalini",
