@@ -222,11 +222,11 @@
   "Antonio Fernandez_C1": {
     "user": "Antonio Fernandez",
     "group": "C1",
-    "final_score": -1,
+    "final_score": 0.7725635555555554,
     "seg_fault": true,
-    "datetime": 1679566074713,
-    "mapa_30": -1,
-    "mapa_50": -1,
+    "datetime": 1679566165187,
+    "mapa_30": 2.117690666666667,
+    "mapa_50": 1.1999999999999997,
     "mapa_75": -1
   },
   "Carmenchu_C1": {
@@ -492,12 +492,12 @@
   "Alejandro Pilar_D2": {
     "user": "Alejandro Pilar",
     "group": "D2",
-    "final_score": -0.4310559185947712,
-    "seg_fault": true,
-    "datetime": 1679563198580,
-    "mapa_30": -0.8,
-    "mapa_50": -0.4956078431372549,
-    "mapa_75": 0.0024400873529411764
+    "final_score": 0.1870733882352941,
+    "seg_fault": false,
+    "datetime": 1679566166379,
+    "mapa_30": 0.15721146666666666,
+    "mapa_50": 0.3736470588235294,
+    "mapa_75": 0.03036163921568628
   },
   "manbolq_A2D": {
     "user": "manbolq",
