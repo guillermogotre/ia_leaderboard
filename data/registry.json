@@ -382,12 +382,12 @@
   "Angel Sanchez_B1": {
     "user": "Angel Sanchez",
     "group": "B1",
-    "final_score": 5.927385994117647,
+    "final_score": 5.151808161437909,
     "seg_fault": false,
-    "datetime": 1679569308085,
-    "mapa_30": 8.19015316862745,
-    "mapa_50": 7.4414509803921565,
-    "mapa_75": 2.1505538333333334
+    "datetime": 1679572724222,
+    "mapa_30": 7.59302825882353,
+    "mapa_50": 5.123294117647059,
+    "mapa_75": 2.7391021078431375
   },
   "Fernando Cuesta_A2": {
     "user": "Fernando Cuesta",
