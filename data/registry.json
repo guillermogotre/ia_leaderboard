@@ -592,12 +592,12 @@
   "Mario_D1": {
     "user": "Mario",
     "group": "D1",
-    "final_score": -0.47405086875816993,
+    "final_score": -0.4307855980392157,
     "seg_fault": true,
-    "datetime": 1679559740705,
-    "mapa_30": -0.5363399788235295,
+    "datetime": 1679570141027,
+    "mapa_30": -0.40692760784313736,
     "mapa_50": 0,
-    "mapa_75": -0.8858126274509804
+    "mapa_75": -0.8854291862745098
   },
   "Francisco Rivas_B3": {
     "user": "Francisco Rivas",
