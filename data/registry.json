@@ -442,12 +442,12 @@
   "AlvaroRL_A2": {
     "user": "AlvaroRL",
     "group": "A2",
-    "final_score": -0.28694843464052294,
+    "final_score": -0.5729673202614378,
     "seg_fault": true,
-    "datetime": 1679573615437,
-    "mapa_30": 0,
-    "mapa_50": 0.027372549019607846,
-    "mapa_75": -0.8882178529411766
+    "datetime": 1679573914086,
+    "mapa_30": -1,
+    "mapa_50": 0.2810980392156863,
+    "mapa_75": -1
   },
   "ScG_A2": {
     "user": "ScG",
