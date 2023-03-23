@@ -112,12 +112,12 @@
   "Ramon Liria_A1D": {
     "user": "Ramon Liria",
     "group": "A1D",
-    "final_score": 4.016659453594771,
-    "seg_fault": true,
-    "datetime": 1679345167286,
-    "mapa_30": 3.766927968627451,
-    "mapa_50": 5.115294117647059,
-    "mapa_75": 3.167756274509804
+    "final_score": 6.281890033986928,
+    "seg_fault": false,
+    "datetime": 1679575680325,
+    "mapa_30": 9.638431552941176,
+    "mapa_50": 5.944039215686274,
+    "mapa_75": 3.263199333333333
   },
   "Jaime Martinez_A1D": {
     "user": "Jaime Martinez",
