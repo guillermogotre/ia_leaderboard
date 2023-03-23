@@ -122,12 +122,12 @@
   "Jaime Martinez_A1D": {
     "user": "Jaime Martinez",
     "group": "A1D",
-    "final_score": 9.239349019607843,
-    "seg_fault": false,
-    "datetime": 1679567098018,
-    "mapa_30": 10,
-    "mapa_50": 10,
-    "mapa_75": 7.7180470588235295
+    "final_score": -1,
+    "seg_fault": true,
+    "datetime": 1679567209929,
+    "mapa_30": -1,
+    "mapa_50": -1,
+    "mapa_75": -1
   },
   "Adrian Jaen_A2D": {
     "user": "Adrian Jaen",
