@@ -492,12 +492,12 @@
   "Alejandro Pilar_D2": {
     "user": "Alejandro Pilar",
     "group": "D2",
-    "final_score": -1,
-    "seg_fault": true,
-    "datetime": 1679566271058,
-    "mapa_30": -1,
-    "mapa_50": -1,
-    "mapa_75": -1
+    "final_score": 0.11731006620915033,
+    "seg_fault": false,
+    "datetime": 1679566765838,
+    "mapa_30": 0.20383434352941177,
+    "mapa_50": 0.13380392156862744,
+    "mapa_75": 0.014291933529411766
   },
   "manbolq_A2D": {
     "user": "manbolq",
