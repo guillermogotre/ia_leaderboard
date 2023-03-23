@@ -412,12 +412,12 @@
   "luisarrabal_A2": {
     "user": "luisarrabal",
     "group": "A2",
-    "final_score": 2.064201994771242,
+    "final_score": -0.3534975281045752,
     "seg_fault": true,
-    "datetime": 1679532022609,
-    "mapa_30": 2.6627456705882353,
-    "mapa_50": 2.510705882352941,
-    "mapa_75": 1.0191544313725491
+    "datetime": 1679532080348,
+    "mapa_30": -0.35620915294117633,
+    "mapa_50": -0.1503921568627452,
+    "mapa_75": -0.553891274509804
   },
   "Jose Manuel Casanova_A2": {
     "user": "Jose Manuel Casanova",
