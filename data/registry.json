@@ -182,12 +182,12 @@
   "Antonio Hernandez_C1": {
     "user": "Antonio Hernandez",
     "group": "C1",
-    "final_score": 6.232810490196078,
+    "final_score": 6.33064048366013,
     "seg_fault": true,
-    "datetime": 1679579110236,
+    "datetime": 1679579150256,
     "mapa_30": 10,
-    "mapa_50": 9.009098039215687,
-    "mapa_75": -0.31066656862745096
+    "mapa_50": 9.378980392156862,
+    "mapa_75": -0.3870589411764705
   },
   "ElWilly_C1": {
     "user": "ElWilly",
@@ -344,7 +344,7 @@
     "group": "B2",
     "final_score": 4.4537954052287585,
     "seg_fault": true,
-    "datetime": 1679566715206,
+    "datetime": 1679579149693,
     "mapa_30": 8.1530288627451,
     "mapa_50": 5.379294117647058,
     "mapa_75": -0.17093676470588248
